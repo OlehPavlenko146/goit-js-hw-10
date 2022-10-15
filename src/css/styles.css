@@ -18,3 +18,23 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.list {
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+.title {
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+h2 {
+  display: flex;
+  align-items: center;
+  margin: 0;
+}
+
+p {
+  margin: 0 0 0 10px;
+}
